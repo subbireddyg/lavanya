@@ -2,4 +2,8 @@ Learning git
 
 Understaing git process
 
+<<<<<<< HEAD
 Lavanya finished her work
+=======
+Subbi done some changes
+>>>>>>> 27ef51e5636f6fd7909ec15f25af58f2e82981a5
