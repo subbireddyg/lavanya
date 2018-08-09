@@ -1,6 +1,5 @@
 Learning git
 
-<<<<<<< HEAD
 Understaing git process
 
 <<<<<<< HEAD
@@ -9,9 +8,12 @@ Lavanya finished her work
 =======
 Subbi done some changes
 >>>>>>> 27ef51e5636f6fd7909ec15f25af58f2e82981a5
+<<<<<<< HEAD
 =======
 Understaing git process
 >>>>>>> parent of 9ff97c6...  understanding conflicts
 =======
 Lavanya finished her work
 >>>>>>> parent of 05c7161...  added
+=======
+>>>>>>> parent of 943b799... payroll
